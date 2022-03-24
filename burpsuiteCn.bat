@@ -1,0 +1,2 @@
+%1 mshta vbscript:CreateObject("WScript.Shell").Run("%~s0 ::",0,FALSE)(window.close)&&exit
+java --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:BurpLoaderKeygenCn.jar=cn -noverify -jar burpsuite_pro.jar
